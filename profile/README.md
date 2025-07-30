@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, We Are Indigo Systems</h1>
+<h1 align="center">Hi 👋, We Are Indigo Tools</h1>
 <h3 align="center">Developers From Around The World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamielocal&label=Profile%20views&color=0e75b6&style=flat" alt="jamielocal" /> </p>
 
-- 🔭 I’m currently working on [Indigo Chat](https://discord.gg/P7nzpZ32Kj)
+- 🔭 I’m currently working on [Indigo Tools](https://discord.gg/P7nzpZ32Kj)
 
 - 🌱 I’m currently Coding In **Javascript, Python, HTML, CSS, And Rust / C#**
 
 - 👯 I’m looking to collaborate on **Nothing Right Now**
 
-- 🤝 I’m looking for help with [Indigo Chat](https://discord.gg/P7nzpZ32Kj)
+- 🤝 I’m looking for help with [Indigo Tools](https://discord.gg/P7nzpZ32Kj)
 
-- 💬 Ask me about **Indigo Chat**
+- 💬 Ask me about **Indigo Tools**
 
 - 📫 How to reach me **[Discord](https://discord.gg/P7nzpZ32Kj)**
 
